@@ -1,6 +1,6 @@
-<h1 align="center">Web site Assistencia Técnica</h1>
+<h1 align="center">Web site Assistência Tecnicah1>
 
-<h2 align="center">Projetos desenvolvido para divulgar serviços de uma assitencia técnica.</h2>
+<h2 align="center">Projetos desenvolvido para divulgar serviços de uma Assistência Tecnica.</h2>
 
 <h1 align="center">
     <a href="https://https://getbootstrap.com//">🔗 Bootstrap</a>
