@@ -1,4 +1,4 @@
-<h1 align="center">Web site Assistência Tecnicah1>
+<h1 align="center">Web site Assistência Tecnica</h1>
 
 <h2 align="center">Projetos desenvolvido para divulgar serviços de uma Assistência Tecnica.</h2>
 
