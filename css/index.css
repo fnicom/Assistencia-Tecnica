@@ -8,7 +8,7 @@
   nav {
     height: 80px;
     width: 100%;
-    background: #0082e6;
+    background: #4F4F4F;
   }
   
   label.logo {
@@ -41,7 +41,7 @@
   }
   
   a.active, a:hover {
-    background: #1b9bff;
+    background: #C0C0C0;
   }
   
   .checkbtn {
